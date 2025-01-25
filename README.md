@@ -88,6 +88,8 @@ Open and run the Jupyter notebooks in the notebooks/ directory to explore the da
 
   ## Acknowledgments
    Moringa School for providing the platform and resources for this project.
+
+  
    Instructor: Naoh Kandie for guidance and support throughout the project.
 
    For any questions or further information, please contact any of the contributors listed above.
