@@ -4,12 +4,12 @@
 This repository contains the final project submission for DSC-PT-09 Group 4, focusing on analyzing movie data to provide actionable insights for Microsoft's new movie studio. The project explores various datasets to understand what types of films are currently performing well at the box office and provides recommendations for Microsoft to create successful movies.
 
 ## Contributors
-- Edel Lwoyelo: edel.lwoyelo@student.moringaschool.com
-- Kelvin Mutuku: kelvin.mutuku1@student.moringaschool.com
-- Bertha Karuku: bertha.karuku@student.moringaschool.com
-- Christine Kindena: christine.kindena@student.moringaschool.com
-- Mercy Kangangi: mercy.kangangi@student.moringaschool.com
-- Bryan Njogu: bryan.njogu@student.moringaschool.com
+- Edel Lwoyelo: 
+- Kelvin Mutuku: 
+- Bertha Karuku: 
+- Christine Kindena:
+- Mercy Kangangi: 
+- Bryan Njogu: 
 
 ## Business Problem
 Microsoft is venturing into the movie industry and needs to understand what types of films are currently successful at the box office. The goal is to analyze existing movie data to provide insights that will help Microsoft decide what types of films to produce.
@@ -90,7 +90,7 @@ Open and run the Jupyter notebooks in the notebooks/ directory to explore the da
    Moringa School for providing the platform and resources for this project.
 
   
-   Instructor: Naoh Kandie for guidance and support throughout the project.
+   Instructor: Noah Kandie for guidance and support throughout the project.
 
    For any questions or further information, please contact any of the contributors listed above.
 
